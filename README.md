@@ -1,1 +1,1 @@
-# PCP_Problems
+This repository contains programs and problem solving exercises in Java and C, covering various core programming concepts such as data structures, algorithms, object oriented principles, and logical problem solving techniques.
